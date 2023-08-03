@@ -2,4 +2,12 @@
 2. Integration tests ✅
     1. PIT STOP! How to make running these scripts easier?? ✅
 3. Programmatic verification ✅
-4. Push to Github
+4. Push to Github ✅
+
+# This is a crowd sourcing app!
+
+# Getting started
+
+## Requirements
+
+## Quickstart
