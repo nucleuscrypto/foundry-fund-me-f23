@@ -4,7 +4,9 @@
 3. Programmatic verification ✅
 4. Push to Github ✅
 
-# This is a crowd sourcing app!
+# About
+
+This is a crowd sourcing app!
 
 # Getting started
 
